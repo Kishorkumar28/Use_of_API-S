@@ -1,0 +1,13 @@
+/* styles.css */
+
+body{
+    background-image: linear-gradient(to top, #f4f6f7, #4dc7f7);
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .rounded {
+    border-radius: 15px;
+  }
